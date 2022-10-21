@@ -150,6 +150,7 @@ element {
   background-color: var(--jungle-green);
   display: inline-block;
   border-radius: 8px;
+  padding: 1rem 1.5rem;
 }
 
 .card p {
